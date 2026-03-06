@@ -9,15 +9,6 @@
 # @link      https://github.com/MarcinOrlowski/banger-lib
 #
 ##################################################################################
-
-banger_lib - ASCII banner generation library.
-
-Usage:
-    from banger_lib import Banger
-
-    banger = Banger(font="fire")
-    banger.add_text("Hello")
-    output = banger.render()
 """
 
 from .banger import Banger

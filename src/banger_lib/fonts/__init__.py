@@ -1,16 +1,14 @@
 """
 ##################################################################################
 #
-# Bänger by Marcin Orlowski
+# Bänger (Library) by Marcin Orlowski
 # Because your `banner` deserves to be a `bänger`!
 #
 # @author    Marcin Orlowski <mail@marcinOrlowski.com>
-# Copyright  ©2025 Marcin Orlowski <MarcinOrlowski.com>
-# @link      https://github.com/MarcinOrlowski/banger
+# Copyright  ©2025-2026 Marcin Orlowski <MarcinOrlowski.com>
+# @link      https://github.com/MarcinOrlowski/banger-lib
 #
 ##################################################################################
-
-Font system for banger_lib.
 """
 
 from .constants import DEFAULT_CHAR_SPACING, MANDATORY_CHARACTERS

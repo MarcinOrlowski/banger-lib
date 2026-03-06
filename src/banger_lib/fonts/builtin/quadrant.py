@@ -1,39 +1,37 @@
 """
 ##################################################################################
 #
-# Bänger by Marcin Orlowski
+# Bänger (Library) by Marcin Orlowski
 # Because your `banner` deserves to be a `bänger`!
 #
 # @author    Marcin Orlowski <mail@marcinOrlowski.com>
-# Copyright  ©2025 Marcin Orlowski <MarcinOrlowski.com>
-# @link      https://github.com/MarcinOrlowski/banger
+# Copyright  ©2025-2026 Marcin Orlowski <MarcinOrlowski.com>
+# @link      https://github.com/MarcinOrlowski/banger-lib
 #
 ##################################################################################
-#
-# Building blocks:  ▘ ▝ ▀ ▖ ▌ ▞ ▛ ▗ ▚ ▐ ▜ ▄ ▙ ▟ █
-#
-#    ▘       ▝       ▀       ▖       ▌
-#    X·      ·X      XX      ··      X·
-#    ··      ··      ··      X·      X·
-#
-#    ▞       ▛       ▗       ▚       ▐
-#    ·X      XX      ··      X·      ·X
-#    X·      X·      ·X      ·X      ·X
-#
-#    ▜       ▄       ▙       ▟       █
-#    XX      ··      X·      ·X      XX
-#    ·X      XX      XX      XX      XX
 """
 
 from ..core import BaseFont
-
-"""Unicode quadrant block font."""
 
 
 class QuadrantFont(BaseFont):
     """Unicode quadrant block font.
 
     Unicode quadrant block font with pixel-perfect design and 4-line height
+
+    Building blocks:  ▘ ▝ ▀ ▖ ▌ ▞ ▛ ▗ ▚ ▐ ▜ ▄ ▙ ▟ █
+
+       ▘       ▝       ▀       ▖       ▌
+       X·      ·X      XX      ··      X·
+       ··      ··      ··      X·      X·
+
+       ▞       ▛       ▗       ▚       ▐
+       ·X      XX      ··      X·      ·X
+       X·      X·      ·X      ·X      ·X
+
+       ▜       ▄       ▙       ▟       █
+       XX      ··      X·      ·X      XX
+       ·X      XX      XX      XX      XX
     """
 
     _FONT_DATA = {

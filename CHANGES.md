@@ -17,5 +17,5 @@
 
 ## @dev
 
-- v1.2.0 (TBD)
+- v1.2.0 (2026-03-06)
   - Initial public release as separated library.

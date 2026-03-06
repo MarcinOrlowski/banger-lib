@@ -1,16 +1,14 @@
 """
 ##################################################################################
 #
-# Bänger by Marcin Orlowski
+# Bänger (Library) by Marcin Orlowski
 # Because your `banner` deserves to be a `bänger`!
 #
 # @author    Marcin Orlowski <mail@marcinOrlowski.com>
-# Copyright  ©2025 Marcin Orlowski <MarcinOrlowski.com>
-# @link      https://github.com/MarcinOrlowski/banger
+# Copyright  ©2025-2026 Marcin Orlowski <MarcinOrlowski.com>
+# @link      https://github.com/MarcinOrlowski/banger-lib
 #
 ##################################################################################
-
-Built-in font implementations.
 """
 
 from .banner import BannerFont
@@ -24,6 +22,7 @@ from .quadrant import QuadrantFont
 from .shadow import ShadowFont
 from .small import SmallFont
 
+# Built-in font implementations.
 __all__ = [
     "BannerFont",
     "BlockFont",
