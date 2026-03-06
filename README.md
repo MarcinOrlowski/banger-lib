@@ -11,6 +11,12 @@
                                                ▝              *** LUBRARY ***
 ```
 
+![PyPI - Version](https://img.shields.io/pypi/v/banger-lib?style=flat)
+[![PyPI Downloads](https://static.pepy.tech/badge/banger-lib)](https://pepy.tech/projects/banger-lib)
+![MIT License](https://img.shields.io/github/license/MarcinOrlowski/banger-lib)
+
+---
+
 # What it is?
 
 `Bänger` (pronounced just `banger`) is a modern tribute to the classic Unix `banner` command line
